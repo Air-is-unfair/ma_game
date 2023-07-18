@@ -12,7 +12,7 @@ body{
 	font-size: 20px;
 }
 .NB {
-     background-color: #333;
+     /*background-color: #333;*/
      overflow: hidden;
      max-height: 49px;
      max-width: 497px;
